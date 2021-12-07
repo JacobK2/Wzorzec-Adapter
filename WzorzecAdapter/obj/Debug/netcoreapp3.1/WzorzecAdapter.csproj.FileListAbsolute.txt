@@ -1,0 +1,26 @@
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.exe
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.deps.json
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.runtimeconfig.json
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.runtimeconfig.dev.json
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.dll
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.pdb
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.AssemblyInfoInputs.cache
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.AssemblyInfo.cs
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.dll
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.pdb
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.genruntimeconfig.cache
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.exe
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.deps.json
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.runtimeconfig.json
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.runtimeconfig.dev.json
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.dll
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\bin\Debug\netcoreapp3.1\WzorzecAdapter.pdb
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.csprojAssemblyReference.cache
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.AssemblyInfoInputs.cache
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.AssemblyInfo.cs
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.csproj.CoreCompileInputs.cache
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.dll
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.pdb
+E:\Wazne\Studia\Informatyka_eksoc\3 rok\Semestr 5\Wzorce projektowe\WzorzecAdapter\WzorzecAdapter\obj\Debug\netcoreapp3.1\WzorzecAdapter.genruntimeconfig.cache

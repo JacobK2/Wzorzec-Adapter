@@ -1,0 +1,13 @@
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Release\netcoreapp3.1\WzorzecAdapter.exe
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Release\netcoreapp3.1\WzorzecAdapter.deps.json
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Release\netcoreapp3.1\WzorzecAdapter.runtimeconfig.json
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Release\netcoreapp3.1\WzorzecAdapter.runtimeconfig.dev.json
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Release\netcoreapp3.1\WzorzecAdapter.dll
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\bin\Release\netcoreapp3.1\WzorzecAdapter.pdb
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.AssemblyInfoInputs.cache
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.AssemblyInfo.cs
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.dll
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.pdb
+C:\Users\niewi\Desktop\WzorzecAdapter\WzorzecAdapter\obj\Release\netcoreapp3.1\WzorzecAdapter.genruntimeconfig.cache
