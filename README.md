@@ -1,0 +1,2 @@
+# Wzorzec-Adapter
+ 
